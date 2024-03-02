@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @metens
-- 👀 I’m interested in web dev, game dev, mathematics, physics, and flying!
+- 👀 I’m interested in web dev, game dev, mathematics, physics, and cycling!
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Python, C++, Java, Swift, ...
 
 <!---
